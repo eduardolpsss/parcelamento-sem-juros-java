@@ -1,5 +1,5 @@
 # parcelamento_sem_juros_java
 
-Solução para um dos problemas de programação do sítio Olimpíadas UNICAMP (nível júnior ou superior) feito em linguagem Java.
+Solution to one of the programming problems of the UNICAMP Olympics website (junior level or higher) made in Java language. 
 
-Link para o desafio: https://olimpiada.ic.unicamp.br/pratique/pj/2019/f3/parcelamento/
+Link to the challenge: https://olimpiada.ic.unicamp.br/pratique/pj/2019/f3/parcelamento/
